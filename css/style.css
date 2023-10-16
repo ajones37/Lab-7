@@ -10,3 +10,8 @@ nav#main-navbar ul li{
 	
 	
 }
+
+nav#main-navbar ul li a{
+	display:block;
+	text-decoration:none;
+}
