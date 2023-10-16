@@ -1,1 +1,6 @@
-
+nav#horz1 ul{
+	list-style-type: none;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
