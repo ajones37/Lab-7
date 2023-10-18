@@ -26,10 +26,14 @@
 	right: 50%;
 }
 
-nav#main-navbar ul li a{
+#main-navbar ul li a{
 	display:block;
 	color: #fff;
 	text-decoration:none;
 	padding: 10px 20px;
+}
+
+#onpage{
+	text-decoration: underline overline;
 }
 
