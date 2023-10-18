@@ -37,3 +37,10 @@
 	text-decoration: underline overline;
 }
 
+#sidebar {
+  background-color: red;
+  position: fixed;
+  right:0%;
+  height: 100%;
+  width: 20%;
+}
