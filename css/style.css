@@ -1,14 +1,21 @@
-nav#main-navbar ul{
+#main-navbar{
+	background-color:blue;
+	overflow:hidden;
+}
+
+#main-navbar ul{
+	
 	list-style-type: none;
 	padding:0;
 	margin:0;
-	overflow:hidden;
+	position: relative
+	left: 50%;
+	float:left;
 }
 
 nav#main-navbar ul li{
 	float:left;
 	margin:0 20px;
-	
 }
 
 nav#main-navbar ul li a{
@@ -19,6 +26,5 @@ nav#main-navbar ul li a{
 	text-align:center;
 	width: 100px;
 	padding: 10px 20px
-
 }
 
