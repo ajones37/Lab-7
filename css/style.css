@@ -52,6 +52,8 @@
 }
 
 #sidebar ul li a{
-	
-	
+  display: block;
+  padding: 15px 0;
+  color: #fff;
+  text-decoration: none;
 }
