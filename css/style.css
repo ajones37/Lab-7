@@ -28,11 +28,8 @@
 
 nav#main-navbar ul li a{
 	display:block;
-	background-color:blue;
 	color: #fff;
 	text-decoration:none;
-	text-align:center;
-	width: 100px;
-	padding: 10px 20px
+	padding: 10px 20px;
 }
 
