@@ -19,9 +19,11 @@
 	float:left;
 }
 
-nav#main-navbar ul li{
+#main-navbar ul li{
+	display:block;
 	float:left;
-	margin:0 20px;
+	position:relative;
+	right: 50%;
 }
 
 nav#main-navbar ul li a{
